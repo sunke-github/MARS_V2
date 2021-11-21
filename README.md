@@ -1,5 +1,5 @@
 # MARS_V2
-I designed a knowledge representation learning algorithm. This algoirhtm has achieved the best performances for link predion on the following datasets. In the future, I will publish the algorithm and update the source code here.
+I designed a knowledge representation learning algorithm. This algorithm has achieved the best performance for link prediction on the following datasets. In the future, I will publish the algorithm and update the source code here.
 
 
 
