@@ -3,7 +3,7 @@ I designed a knowledge representation learning algorithm. This algoirhtm has ach
 
 
 
-| Dataset    | Raw   | Filtered | 1     | 3     | 10    |
+| Dataset    | Raw   | Filtered | his@1     | his@3     | his@10    |
 |----------|-------|----------|-------|-------|-------|
 | WN18     | 0.999 | 0.999    | 0.999 | 1.000 | 1.000 |
 | WN18RR   | 0.999 | 0.999    | 0.998 | 1.000 | 1.000 |
