@@ -13,7 +13,7 @@ I designed a knowledge representation learning algorithm. This algorithm has ach
 | FB13     | 0.968 | 0.968    | 0.968 | 0.968 | 0.968 |
 
 
-<img src="https://github.com/sunke-github/MARS_V2/blob/main/FB13.png" width="512">
+<img src="https://github.com/sunke-github/MARS_V2/blob/main/FB13.png" width="900">
 
 
 ![image](https://github.com/sunke-github/MARS_V2/blob/main/FB15K.png)
