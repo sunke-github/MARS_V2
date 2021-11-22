@@ -13,15 +13,15 @@ I designed a knowledge representation learning algorithm. This algorithm has ach
 | FB13     | 0.968 | 0.968    | 0.968 | 0.968 | 0.968 |
 
 
-<img src="https://github.com/sunke-github/MARS_V2/blob/main/FB13.png" width="900">
-
-
-![image](https://github.com/sunke-github/MARS_V2/blob/main/FB15K.png)
-
-![image](https://github.com/sunke-github/MARS_V2/blob/main/FB15K237.png)
-
-![image](https://github.com/sunke-github/MARS_V2/blob/main/WN11.png)
-
-![image](https://github.com/sunke-github/MARS_V2/blob/main/WN18.png)
-
-![image](https://github.com/sunke-github/MARS_V2/blob/main/WN18RR.png)
+## FB13
+<img src="https://github.com/sunke-github/MARS_V2/blob/main/FB13.png" width="800">
+## FB15K
+<img src="https://github.com/sunke-github/MARS_V2/blob/main/FB15K.png" width="800">
+## FB15K237
+<img src="https://github.com/sunke-github/MARS_V2/blob/main/FB15K237.png" width="800">
+## WN11
+<img src="https://github.com/sunke-github/MARS_V2/blob/main/WN11.png" width="800">
+## WN18
+<img src="https://github.com/sunke-github/MARS_V2/blob/main/WN18.png" width="800">
+## WN18RR
+<img src="https://github.com/sunke-github/MARS_V2/blob/main/WN18RR.png" width="800">
