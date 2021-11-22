@@ -11,3 +11,18 @@ I designed a knowledge representation learning algorithm. This algorithm has ach
 | FB15K237 | 0.993 | 0.993    | 0.987 | 1.000 | 1.000 |
 | FB15K    | 0.998 | 0.998    | 0.997 | 1.000 | 1.000 |
 | FB13     | 0.968 | 0.968    | 0.968 | 0.968 | 0.968 |
+
+
+
+
+![image](https://github.com/sunke-github/MARS_V2/blob/main/FB13.png)
+
+![image](https://github.com/sunke-github/MARS_V2/blob/main/FB15K.png)
+
+![image](https://github.com/sunke-github/MARS_V2/blob/main/FB15K237.png)
+
+![image](https://github.com/sunke-github/MARS_V2/blob/main/WN11.png)
+
+![image](https://github.com/sunke-github/MARS_V2/blob/main/WN18.png)
+
+![image](https://github.com/sunke-github/MARS_V2/blob/main/WN18RR.png)
