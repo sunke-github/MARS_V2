@@ -1,5 +1,5 @@
 # MARS_V2
-I designed a knowledge representation learning algorithm. This algorithm has achieved the best performance for link prediction on the following datasets. In the future, I will publish the algorithm and update the source code here.
+I designed a knowledge representation learning algorithm. This algorithm has achieved the best performance for link prediction on the following datasets. In the future, I will consider to publish the algorithm and upload the source code here.
 
 
 
@@ -13,9 +13,8 @@ I designed a knowledge representation learning algorithm. This algorithm has ach
 | FB13     | 0.968 | 0.968    | 0.968 | 0.968 | 0.968 |
 
 
+<img src="https://github.com/sunke-github/MARS_V2/blob/main/FB13.png" width="512">
 
-
-![image](https://github.com/sunke-github/MARS_V2/blob/main/FB13.png)
 
 ![image](https://github.com/sunke-github/MARS_V2/blob/main/FB15K.png)
 
